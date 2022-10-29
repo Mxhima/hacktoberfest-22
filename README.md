@@ -5,7 +5,7 @@
     Fork this repository.
     Clone the repository to your local machine:
 
-git clone https://github.com/<your github username>/hacktoberfest-22.git
+git clone https://github.com/<your github username>hacktoberfest-22.git
 
     Navigate to the directory.
 
