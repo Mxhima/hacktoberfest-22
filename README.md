@@ -5,11 +5,11 @@
     Fork this repository.
     Clone the repository to your local machine:
 
-git clone https://github.com/<your github username>/Hacktoberfest_2022.git
+git clone https://github.com/<your github username>/hacktoberfest-22.git
 
     Navigate to the directory.
 
-cd Hacktoberfest_2022
+cd hacktoberfest-22
 
     Create and shift to a new branch.
 
